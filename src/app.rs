@@ -25,7 +25,7 @@ use crate::network::{self, Interface};
 
 /// The reverse-DNS application ID — also the desktop-file basename and the
 /// `cosmic-config` namespace for persisted settings.
-pub const APP_ID: &str = "com.cpknight.CosmicAppletIp";
+pub const APP_ID: &str = "io.cpknight.CosmicAppletIp";
 
 pub struct Window {
     core: cosmic::app::Core,

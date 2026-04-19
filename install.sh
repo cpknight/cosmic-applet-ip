@@ -6,7 +6,7 @@ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$HERE"
 
 NAME="cosmic-applet-ip"
-APPID="com.cpknight.CosmicAppletIp"
+APPID="io.cpknight.CosmicAppletIp"
 PREFIX="${PREFIX:-/usr}"
 SUDO=""
 

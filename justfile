@@ -1,5 +1,5 @@
 name    := 'cosmic-applet-ip'
-appid   := 'com.cpknight.CosmicAppletIp'
+appid   := 'io.cpknight.CosmicAppletIp'
 
 rootdir := ''
 prefix  := '/usr'

@@ -3,7 +3,7 @@
 set -euo pipefail
 
 NAME="cosmic-applet-ip"
-APPID="com.cpknight.CosmicAppletIp"
+APPID="io.cpknight.CosmicAppletIp"
 PREFIX="${PREFIX:-/usr}"
 SUDO=""
 

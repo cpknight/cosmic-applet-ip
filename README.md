@@ -88,8 +88,8 @@ PREFIX="$HOME/.local" ./install.sh
   toolkit System76 uses for the built-in applets. It registers itself with
   `cosmic-panel` via `X-CosmicApplet=true` in its `.desktop` file.
 * Selection state is stored under the COSMIC config namespace
-  `com.cpknight.CosmicAppletIp` (usually
-  `~/.config/cosmic/com.cpknight.CosmicAppletIp/v1/`).
+  `io.cpknight.CosmicAppletIp` (usually
+  `~/.config/cosmic/io.cpknight.CosmicAppletIp/v1/`).
 
 ## License
 
