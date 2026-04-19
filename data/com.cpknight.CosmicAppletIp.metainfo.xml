@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>com.cpknight.CosmicAppletIp</id>
+  <extends>com.system76.CosmicPanel</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <name>IP Address</name>
+  <summary>Show the current IP address in the COSMIC panel</summary>
+  <description>
+    <p>
+      Displays the IP address of the computer directly in the COSMIC panel.
+      Click the applet to cycle through the available network interfaces;
+      the chosen interface is remembered across sessions. An "Auto" mode
+      always shows the IP of whichever interface currently owns the
+      default route.
+    </p>
+  </description>
+  <url type="homepage">https://github.com/cpknight/cosmic-applet-ip</url>
+  <url type="bugtracker">https://github.com/cpknight/cosmic-applet-ip/issues</url>
+  <developer_name>cpknight</developer_name>
+  <releases>
+    <release version="0.1.0" date="2026-04-19"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+</component>

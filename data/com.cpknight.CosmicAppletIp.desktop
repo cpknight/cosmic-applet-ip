@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=IP Address
+Comment=Show the current IP address of this computer in the panel
+Type=Application
+Exec=cosmic-applet-ip
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Applet;IP;Network;Address;
+Icon=com.cpknight.CosmicAppletIp-symbolic
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-HostWaylandDisplay=true
+X-CosmicHoverPopup=Auto

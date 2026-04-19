@@ -1,0 +1,13 @@
+ip-applet = IP Address
+auto = Auto
+auto-arrow = Auto → { $name }
+connected = Connected
+disconnected = Disconnected
+no-address = No IP address
+no-interfaces = No network interfaces found
+reset-to-auto = Reset to Auto
+open-network-settings = Open network settings…
+ipv4 = IPv4
+ipv6 = IPv6
+interface = Interface
+status = Status
