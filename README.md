@@ -28,6 +28,11 @@ On Arch Linux (and derivatives) the packages you likely want are:
 ```bash
 sudo pacman -S --needed rust just base-devel wayland libxkbcommon
 ```
+On debian/Ubuntu type systems, try this:
+
+```bash
+sudo apt install --no-install-recommends rustc cargo just build-essential libwayland-dev libxkbcommon-dev
+```
 
 ## Install
 
